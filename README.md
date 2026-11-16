@@ -2,7 +2,7 @@
 
 **Applied Data Scientist · Research Lead, Vector 1 · Kansas City**
 
-Brian James Curry, applied data scientist and research lead at Vector 1 in Kansas City. I build agentic systems and machine learning and analytics across marketing, energy, healthcare and commodities, with open-source tools for marketing mix modeling ([Papilon](https://github.com/Bodhi8/papilon)) and causal discovery and simulation ([PyCausalSim](https://github.com/Bodhi8/pycausalsim)). Every method is checked on data where the right answer is known. Research and demos: [vector1.ai](https://vector1.ai).
+Brian James Curry, applied data scientist and research lead at Vector 1 in Kansas City. My work spans AI and machine learning, agentic systems, econometrics and causal inference, as research and applied science across marketing, energy, healthcare and commodities. Open-source tools include marketing mix modeling ([Papilon](https://github.com/Bodhi8/papilon)) and causal discovery and simulation ([PyCausalSim](https://github.com/Bodhi8/pycausalsim)). Every method is checked on data where the right answer is known. Research and demos: [vector1.ai](https://vector1.ai).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brianjamescurry-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brianjamescurry/)
 [![Medium](https://img.shields.io/badge/Medium-@brian--curry--research-black?style=flat&logo=medium)](https://medium.com/@brian-curry-research)
